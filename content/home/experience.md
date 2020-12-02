@@ -18,27 +18,48 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Chief Teaching Assistant"
+  company = "University of Tehran"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Tehran, Iran"
+  date_start = "2020-09-19"
   date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+  description = "Data Structures and Algorithms"
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Teaching Assistant"
+  company = "University of Tehran"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Tehran, Iran"
+  date_start = "2020-02-08"
+  date_end = "2020-08-21"
+  description = """Assembly and Machine Language"""
+
+[[experience]]
+  title = "Teaching Assistant"
+  company = "University of Tehran"
+  company_url = ""
+  location = "Tehran, Iran"
+  date_start = "2019-02-08"
+  date_end = "2019-07-28"
+  description = """Assembly and Machine Language, Fundamentals of Programming"""
+
+[[experience]]
+  title = "Teaching Assistant"
+  company = "University of Tehran"
+  company_url = ""
+  location = "Tehran, Iran"
+  date_start = "2018-09-19"
+  date_end = "2019-01-29"
+  description = """Design and Analysis of Algorithms"""
+
+[[experience]]
+  title = "Teaching Assistant"
+  company = "University of Tehran"
+  company_url = ""
+  location = "Tehran, Iran"
+  date_start = "2017-09-21"
+  date_end = "2017-01-29"
+  description = """Advanced Programming"""
 
 +++
