@@ -4,7 +4,7 @@
 title: "CNS_Project"
 summary: ""
 authors: []
-tags: []
+tags: [CNS]
 categories: []
 date: 2021-03-31T16:41:31+04:30
 
