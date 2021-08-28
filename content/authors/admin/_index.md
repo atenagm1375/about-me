@@ -6,7 +6,7 @@ title: Ashena Gorgan Mohammadi
 superuser: true
 
 # Role/position
-role: Research Intern
+role: Student
 
 # Organizations/Affiliations
 organizations:
