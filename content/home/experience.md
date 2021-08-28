@@ -31,7 +31,7 @@ date_format = "Jan 2006"
   company = "University of Tehran"
   company_url = ""
   location = "Tehran, Iran"
-  date_start = "2020-02-18"
+  date_start = "2021-02-18"
   date_end = "2021-08-21"
   description = "Computational Neuroscience"
 
