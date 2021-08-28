@@ -18,14 +18,24 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-# [[item]]
-#   organization = "Coursera"
-#   organization_url = "https://www.coursera.org"
-#   title = "Neural Networks and Deep Learning"
-#   url = ""
-#   certificate_url = "https://www.coursera.org"
-#   date_start = "2018-10-01"
-#   date_end = ""
-#   description = ""
+[[item]]
+  organization = "University of Tehran"
+  organization_url = ""
+  title = "Two-day Symposium on Computational Neuroscience (From Biology to AI)"
+  url = ""
+  certificate_url = ""
+  date_start = "2018-12-12"
+  date_end = "2018-12-13"
+  description = "Part of the organizers' committee"
+
+[[item]]
+    organization = "CNeuro"
+    organization_url = "https://www.cneuro.net/"
+    title = "Theoretical & Computational Neuroscience Summer School"
+    url = "https://www.cneuro.net/cneuro2021"
+    certificate_url = ""
+    date_start = "2021-08-14"
+    date_end = "2021-08-21"
+    description = ""
 
 +++

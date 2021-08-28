@@ -27,7 +27,7 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
-url_code: ""
+url_code: "https://github.com/cnrl/cns-project-template"
 url_pdf: ""
 url_slides: ""
 url_video: ""

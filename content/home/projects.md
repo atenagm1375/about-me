@@ -29,6 +29,10 @@ subtitle = ""
     name = "Computational Neuroscience"
     tag = "CNS"
 
+    [[content.filter_button]]
+      name = "ML&DL"
+      tag = "MLDL"
+
   # [[content.filter_button]]
   #   name = "Other"
   #   tag = "Demo"

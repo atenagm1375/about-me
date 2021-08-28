@@ -14,7 +14,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include computational cognitive neuroscience and artificial intelligence.
+bio: Student and teaching assistant, University of Tehran.
 
 interests:
 - Artificial Intelligence
@@ -25,7 +25,7 @@ education:
   courses:
   - course: MSc in Computer Science
     institution: University of Tehran
-    year: Ongoing
+    year: 2021
   - course: BSc in Computer Science
     institution: University of Tehran
     year: 2019
@@ -38,6 +38,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
+- icon: researchgate
+  icon_pack: fab
+  link: 'https://www.researchgate.net/profile/Ashena-Gorgan-Mohammadi'
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/ashena-g-mohammadi-9b3853188
@@ -66,5 +69,5 @@ highlight_name: false
 # - Visitors
 ---
 
-Ashena (Atena) Gorgan Mohammadi is a student, research intern, and teaching assistant at University of Tehran, Iran.
-Her research interests include Neuroscience of Theory of Mind and Learning, Vision Neuroscience, Spiking Neural Networks, Machine Learning, Computer Science, and Computational Neuroscience. She is part of [Computational Neuroscience Research Laboratory (CNRL)](https://cnrl.ut.ac.ir/) in the Mathematics, Statistics, and Computer Science Department in University of Tehran.
+Ashena (Atena) Gorgan Mohammadi is a student and teaching assistant at University of Tehran, Iran.
+Her research interests include theoretical and computational neuroscience, neuroscience of theory of mind and learning, artificial neural networks, and machine learning. She is part of [Computational Neuroscience Research Laboratory (CNRL)](https://cnrl.ut.ac.ir/) in the department of Mathematics, Statistics, and Computer Science at University of Tehran.
