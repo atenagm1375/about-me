@@ -6,7 +6,7 @@ title: Ashena Gorgan Mohammadi
 superuser: true
 
 # Role/position
-role: Student
+role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
