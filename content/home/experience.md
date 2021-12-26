@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Tehran, Iran"
   date_start = "2021-08-28"
-  date_end = ""
+  date_end = "2022-02-10"
   description = "Design and Analysis of Algorithms"
 
 [[experience]]

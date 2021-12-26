@@ -14,7 +14,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Student and teaching assistant, University of Tehran.
+bio: PhD Candidate, University of Tehran.
 
 interests:
 - Artificial Intelligence
