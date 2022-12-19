@@ -3,7 +3,7 @@
 
 title: "Parkinsons Disease Diagnosis: The effect of autoencoders on extracting features from vocal characteristics"
 authors: ["Ashena Gorgan Mohammadi", "Pouya Mehralian", "Amir Naseri", "Hedieh Sajedi"]
-date: 2022-12-19T14:27:42+03:30
+date: 2021-09-19T14:27:42+03:30
 doi: "https://doi.org/10.1016/j.array.2021.100079"
 
 # Schedule page publish date (NOT publication's date).
