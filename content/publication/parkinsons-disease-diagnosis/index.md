@@ -16,7 +16,7 @@ publishDate: 2022-12-19T14:27:42+03:30
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Array"
 publication_short: ""
 
 abstract: ""
