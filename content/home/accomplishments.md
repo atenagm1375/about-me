@@ -29,13 +29,33 @@ date_format = "Jan 2006"
   description = "Part of the organizers' committee"
 
 [[item]]
-    organization = "CNeuro"
+    organization = "ICBS"
+    organization_url = "https://enicbs.sbu.ac.ir/"
+    title = "1st Symposium of Computational and Mathematical Psychology: Deep Learning & Neural Networks"
+    url = ""
+    certificate_url = ""
+    date_start = "2020-04-21"
+    date_end = "2020-04-23"
+    description = "Participant"
+
+[[item]]
+    organization = "THBI & IOB"
     organization_url = "https://www.cneuro.net/"
-    title = "Theoretical & Computational Neuroscience Summer School"
+    title = "Theoretical & Computational Neuroscience Summer School (CNeuro2021)"
     url = "https://www.cneuro.net/cneuro2021"
     certificate_url = ""
     date_start = "2021-08-14"
     date_end = "2021-08-21"
     description = ""
+
+[[item]]
+    organization = "THBI & IOB"
+    organization_url = "https://www.cneuro.net/"
+    title = "Theoretical & Computational Neuroscience Summer School (CNeuro2022)"
+    url = "https://www.cneuro.net/cneuro2022"
+    certificate_url = ""
+    date_start = "2022-08-14"
+    date_end = "2022-08-21"
+    description = "Learning, Memory, and Decision Making in Brains and Machines"
 
 +++

@@ -6,7 +6,7 @@ title: Ashena Gorgan Mohammadi
 superuser: true
 
 # Role/position
-role: PhD Candidate
+role: Teaching Assistant
 
 # Organizations/Affiliations
 organizations:
@@ -70,4 +70,4 @@ highlight_name: false
 ---
 
 Ashena (Atena) Gorgan Mohammadi is a student and teaching assistant at University of Tehran, Iran.
-Her research interests include theoretical and computational neuroscience, neuroscience of theory of mind and learning, artificial neural networks (Specially spiking neural networks), and machine learning. She is part of [Computational Neuroscience Research Laboratory (CNRL)](https://cnrl.ut.ac.ir/) in the department of Mathematics, Statistics, and Computer Science at University of Tehran.
+Her research interests include theoretical and computational neuroscience, neuroscience of theory of mind and learning, and artificial neural networks (Specially spiking neural networks). She is part of [Computational Neuroscience Research Laboratory (CNRL)](https://cnrl.ut.ac.ir/) in the department of Mathematics, Statistics, and Computer Science at University of Tehran.
