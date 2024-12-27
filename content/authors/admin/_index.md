@@ -6,15 +6,17 @@ title: Ashena Gorgan Mohammadi
 superuser: true
 
 # Role/position
-role: Teaching Assistant
+role: PhD Student in Computational Neuroscience
 
 # Organizations/Affiliations
 organizations:
-- name: University of Tehran
-  url: ""
+- name: Zenke Lab, Friedrich Miescher Institute for Biomedical Research
+  url: "https://www.zenkelab.org"
+- name: University of Basel
+  url: "https://www.unibas.ch"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Teaching Assistant, University of Tehran.
+bio: PhD Student in Comp. Neuro., Zenke Lab, FMI, Basel, Switzerland.
 
 interests:
 - Artificial Intelligence
@@ -23,12 +25,15 @@ interests:
 
 education:
   courses:
+  - course: PhD in Computational Neuroscience
+    institution: Friedrich Miescher Institute for Biomedical Research and University of Basel, Switzerland
+    year: 2021--present
   - course: MSc in Computer Science
-    institution: University of Tehran
-    year: 2021
+    institution: University of Tehran, Iran
+    year: 2019--2021
   - course: BSc in Computer Science
-    institution: University of Tehran
-    year: 2019
+    institution: University of Tehran, Iran
+    year: 2015--2019
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -38,6 +43,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=UkW-5_oAAAAJ&hl=en
 - icon: researchgate
   icon_pack: fab
   link: 'https://www.researchgate.net/profile/Ashena-Gorgan-Mohammadi'
@@ -69,5 +77,10 @@ highlight_name: false
 # - Visitors
 ---
 
-Ashena (Atena) Gorgan Mohammadi is a student and teaching assistant at University of Tehran, Iran.
-Her research interests include theoretical and computational neuroscience, neuroscience of theory of mind and learning, and artificial neural networks (Specially spiking neural networks). She is part of [Computational Neuroscience Research Laboratory (CNRL)](https://cnrl.ut.ac.ir/) in the department of Mathematics, Statistics, and Computer Science at University of Tehran.
+I am a PhD student in Computational Neuroscience at the lab of [Friedemann Zenke](https://www.zenkelab.org) at the [Friedrich Miescher Institute](https://www.fmi.ch), where I am working on understanding the computational principles of predictive learning in the brain. Specifically, I am interested in how the brain learns to predict the future from a stream of sensory stimuli through time and how cortical circuits can implement such predictive learning.
+
+I completed my MSc in Computer Science at the University of Tehran under the supervision of [Mohammad Ganjtabesh](https://www.cnrl.ut.ac.ir), where I studied the computational models of Theory of Mind and developed a simple spiking model of imitative reinforcement learning. During my master's, I also collaborated in a project on self-supervised representation learning for online handwriting applications.
+
+Before that, I received my BSc in Computer Science from the University of Tehran, where I worked on a project on developing an accelerated python framework for spiking neural networks using C++ backend.
+
+I am passionate about understanding the computational principles of the brain and developing biologically plausible models of learning and predictive processing, especially in the neocortex. In my free time, I enjoy playing badminton, bouldering, reading, playing the piano, and watching anime.
