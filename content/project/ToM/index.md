@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "ToM"
+title: "ToM-based IMRL (cartpole)"
 summary: ""
 authors: []
 tags: [CNS, MLDL]
@@ -9,7 +9,7 @@ categories: []
 date: 2021-03-31T16:39:18+04:30
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://www.researchgate.net/project/Theory-of-Mind-and-its-Computational-Modeling"
+external_link: "https://github.com/atenagm1375/cartpole"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

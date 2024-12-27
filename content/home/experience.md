@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Basel, Switzerland"
   date_start = "2023-06-01"
   date_end = ""
-  description = "Data Structures and Algorithms"
+  description = "Computational Neuroscience"
 
 [[experience]]
   title = "Chief Teaching Assistant"
