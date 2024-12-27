@@ -3,7 +3,7 @@
 
 title: "Self-Supervised Representation Learning for Online Handwriting Text Classification"
 authors: ["Pouya Mehralian", "Bagher BabaAli", "Ashena Gorgan Mohammadi"]
-date: 2021-08-10
+date: 2023-08-10
 doi: "https://doi.org/10.48550/arXiv.2310.06645"
 
 # Schedule page publish date (NOT publication's date).
