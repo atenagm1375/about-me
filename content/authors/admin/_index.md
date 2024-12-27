@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ashena Gorgan Mohammadi
+title: Ashena (Atena) Gorgan Mohammadi
 
 # Is this the primary user of the site?
 superuser: true
@@ -78,9 +78,6 @@ highlight_name: false
 ---
 
 I am a PhD student in Computational Neuroscience at the lab of [Friedemann Zenke](https://www.zenkelab.org) at the [Friedrich Miescher Institute](https://www.fmi.ch), where I am working on understanding the computational principles of predictive learning in the brain. Specifically, I am interested in how the brain learns to predict the future from a stream of sensory stimuli through time and how cortical circuits can implement such predictive learning.
-
 I completed my MSc in Computer Science at the University of Tehran under the supervision of [Mohammad Ganjtabesh](https://www.cnrl.ut.ac.ir), where I studied the computational models of Theory of Mind and developed a simple spiking model of imitative reinforcement learning. During my master's, I also collaborated in a project on self-supervised representation learning for online handwriting applications.
-
-Before that, I received my BSc in Computer Science from the University of Tehran, where I worked on a project on developing an accelerated python framework for spiking neural networks using C++ backend.
-
+Before that, I received my BSc in Computer Science from the University of Tehran, where I worked on a project on developing an accelerated python framework for spiking neural networks.
 I am passionate about understanding the computational principles of the brain and developing biologically plausible models of learning and predictive processing, especially in the neocortex. In my free time, I enjoy playing badminton, bouldering, reading, playing the piano, and watching anime.
