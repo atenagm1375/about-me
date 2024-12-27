@@ -21,9 +21,10 @@ organizations:
 bio: PhD Student in Comp. Neuro., Zenke Lab, FMI, Basel.
 
 interests:
-- Artificial Intelligence
+- Self-Supervised Representation Learning
+- Predictive Processing
+- Spiking Neural Networks
 - Computational Neuroscience
-- Cognitive Science
 
 education:
   courses:

@@ -33,6 +33,7 @@ subtitle = ""
   icon = "database"
   icon_pack = "fas"
   name = "Database"
+  description = "SQL, Oracle, MySQL"
 
 [[feature]]
     icon = "code-branch"
@@ -44,22 +45,31 @@ subtitle = ""
   icon = "laptop-code"
   icon_pack = "fas"
   name = "Machine Learning"
+  description = "Scikit-learn, numpy, pandas, scipy"
 
 [[feature]]
   icon = "sitemap"
   icon_pack = "fas"
   name = "Deep Learning"
+  description = "PyTorch"
+
+[[feature]]
+  name = "Visualizations"
+  icon = "chart-line"
+  icon_pack = "fas"
+  description = "Matplotlib, Seaborn, Plotly"
 
 [[feature]]
   icon = "brain"
   icon_pack = "fas"
-  name = "Computational Neuroscience"
+  name = "Spiking Neural Networks"
+  description = "BindsNET, ANNarchy, PymoNNto"
 
-[[feature]]
-    icon = "dna"
-    icon_pack = "fas"
-    name = "Bioinformatics"
-
+# [[feature]]
+#    icon = "dna"
+#    icon_pack = "fas"
+#    name = "Bioinformatics"
+#    description = "R, Bioconductor"
 
 # Uncomment to use emoji icons.
 # [[feature]]
