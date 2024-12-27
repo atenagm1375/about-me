@@ -18,56 +18,47 @@ subtitle = ""
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "Advanced"
 
 [[feature]]
     icon = "code"
     icon_pack = "fas"
     name = "C++"
-    description = "Advanced"
 
 [[feature]]
     icon = "code"
     icon_pack = "fas"
     name = "Java"
-    description = "Advanced"
 
 [[feature]]
   icon = "database"
   icon_pack = "fas"
   name = "Database"
-  description = "Intermediate"
 
 [[feature]]
     icon = "code-branch"
     icon_pack = "fas"
     name = "Git"
-    description = "Intermediate"
 
 
 [[feature]]
   icon = "laptop-code"
   icon_pack = "fas"
   name = "Machine Learning"
-  description = "Advanced"
 
 [[feature]]
   icon = "sitemap"
   icon_pack = "fas"
   name = "Deep Learning"
-  description = "Intermediate"
 
 [[feature]]
   icon = "brain"
   icon_pack = "fas"
   name = "Computational Neuroscience"
-  description = "Intermediate"
 
 [[feature]]
     icon = "dna"
     icon_pack = "fas"
     name = "Bioinformatics"
-    description = "Beginner"
 
 
 # Uncomment to use emoji icons.
