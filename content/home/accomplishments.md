@@ -58,4 +58,14 @@ date_format = "Jan 2006"
     date_end = "2022-08-21"
     description = "Learning, Memory, and Decision Making in Brains and Machines"
 
+[[item]]
+    organization = "Cajal Advanced Neuroscience Training Program"
+    organization_url = "https://cajal-training.org"
+    title = "NeuroAI: Neuroscience and AI"
+    url = "https://cajal-training.org/on-site/neuro-ai/"
+    certificate_url = ""
+    date_start = "2025-07-14"
+    date_end = "2025-08-01"
+    description = "Summer course with hands-on exercises and team project on NeuroAI"
+
 +++
